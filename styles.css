@@ -1,25 +1,18 @@
-body, html {
-    height: 100%;
-    margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+p {
+    font-family: 'Courier New', monospace;
+    font-size: 20px;
   }
-  
-  .hero-image {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("images/heroImage2.png");
-    height: 50%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    position: relative;
+
+  header {
+    font-style: italic;
   }
-  
-  .hero-text {
-    text-align: center;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
+body {
+    background-color: rgb(27, 58, 65);
     color: white;
+    font-size: 40px;
+    font-family: "Sofia", sans-serif;
   }
+ 
+
   
   
