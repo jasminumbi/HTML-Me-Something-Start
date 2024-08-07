@@ -1,3 +1,11 @@
+#mainHeading{
+    color: red;
+}
+
+.funParagraph {
+    color: green;
+}
+
 p {
     font-family: 'Courier New', monospace;
     font-size: 20px;
@@ -7,7 +15,9 @@ p {
     font-style: italic;
   }
 body {
-    background-color: rgb(27, 58, 65);
+    background-color: rgb(21, 32, 53);
+    margin: 8px;
+    display: block;
     color: white;
     font-size: 40px;
     font-family: "Sofia", sans-serif;
